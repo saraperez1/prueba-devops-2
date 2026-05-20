@@ -1,7 +1,7 @@
 
  # README DEL FLUJO DEL PROYECTO
 
-sarai perez
+sarai perezz
 
 
 1. Instancias EC2 running (EC2-Frontend y EC2-Backend).
